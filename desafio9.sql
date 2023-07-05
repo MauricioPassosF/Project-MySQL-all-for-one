@@ -1,0 +1,1 @@
+SELECT * FROM purchase_orders where notes is not null;
